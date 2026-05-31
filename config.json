@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokensetch",
+        "uuid": 13056032,
+        "checksum": "sjazbn"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
